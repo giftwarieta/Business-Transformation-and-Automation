@@ -20,13 +20,13 @@ Below are the listed order through which this solution was developed, after whic
 * BluePrinting.
 * Chatbot Solution Design
 
-2. ### Data Modelling (consisting of the E-R diagram splitted into your logical, object and physical diagrams)
+2. #### Data Modelling (consisting of the E-R diagram splitted into your logical, object and physical diagrams)
 * Security Modelling
 * ALM
 * Integrations Model (if any)
 * Project Management and Project Governance.
 
-3. ### Project Methodology (Agile or Waterfall).
+3. #### Project Methodology (Agile or Waterfall).
 Project Decision Model
 
 ## Design Approach
