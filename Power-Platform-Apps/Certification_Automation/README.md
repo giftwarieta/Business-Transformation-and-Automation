@@ -33,7 +33,17 @@ Using the Agile methodology, I implemented the solution by leveraging on #sharep
 * Created a backend flow using Power automate to implement the process flowchart whose image is seen below
 
 
-The images below, shows the process flowchart of the solution and a screenshot of a sample certificate sent to a participant.
+The image below, shows the process flowchart of the solutionscreenshot of a sample certificate sent to a participant.
+![Automation Flowchart](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Certification_Automation/Images/Certificate_generation_automation_flowchart.jpg)
+
+The image below, shows a sample certificate screenshot sent to a participant.
+![Sample Certificate screenshot](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Certification_Automation/Images/automated_certificate_screenshot.PNG)
+
+
+The image below, shows screenshots of the participant attendance form designed with Microsoft Form. Kindly note that the layout can be changed to different layout
+![Attendance Form Home Page](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Certification_Automation/Images/Attendance_form_homepage.PNG)
+
+![Attendance Main Form](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Certification_Automation/Images/Attendance_MainForm.PNG)
 
 ## Benefits of this automation
 By automating this process, I was able to streamline the administrative tasks associated with issuing training certificates and ensure that every participant receives their certificate promptly. This also helps to enhance the overall experience for participants and reinforce the value of your company's courses. Additionally, the automated system will free up your staff's time, enabling them to focus on developing and delivering high-quality courses to your growing base of participants.
