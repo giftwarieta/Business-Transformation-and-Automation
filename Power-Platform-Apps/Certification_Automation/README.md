@@ -13,7 +13,7 @@ To accomplish this, you'll need to develop a system that can:
 *Automatically generate a unique certificate for each participant who fills the attendance form, including the name of the course, the name of the participant and date of certificate issue.
 *Automatically send the certificate to the email address provided by the participant in the attendance form.
 
-##My Approach:
+## My Approach:
 Using the Agile methodology, I implemented the solution by leveraging on #sharepoint and #powerautomate
 * Created a sharepoint list that contains the following columns
   * Your Full Name
