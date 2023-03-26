@@ -33,7 +33,7 @@ Project Decision Model
 The design concept follows a nutural language process (NLP) approach with regards to inquiry about a job role availability.
 
 ## Chatbot Outlook
-
+![Chat bot preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Gifted_chatbot/Images/GiftedChatbot.PNG)
 
 
 I hope this has been helpful in understanding how this solution was created.
