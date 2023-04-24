@@ -2,7 +2,7 @@
 This repository hold the entire project file for the Gifted Job Vacancy Bot, the documentations and the GitHub actions for committing changes and deployment.
 
 ## Solution Overview
-This Solution is developed to enable staffs of an organization to check available job vacancies and events in the organization by simply chatting with a bot called Gifted.
+This Solution is developed to enable staffs of an organization to check available job vacancies (and apply for vacant roles of their interest) and events in the organization by simply chatting with a bot called Gifted.
 <a href="https://giftwarieta.com.ng/Giftedchatbot.html" target="_blanK">Click here</a> to have a feel and interact with the bot using a web browser feel. You can trigger the conversation with a "hi" or greeting the bot.
 
 ## Solution Justification
@@ -17,14 +17,14 @@ Below are the listed order through which this solution was developed, after whic
 * Use case discovery.
 * Design conceptualization.
 * FitGap Analysis.
-* BluePrinting.
+* Database Design
+* Workflow design.
 * Chatbot Solution Design
 
-2. #### Data Modelling (consisting of the E-R diagram splitted into your logical, object and physical diagrams)
-* Security Modelling
-* ALM
-* Integrations Model (if any)
-* Project Management and Project Governance.
+2. #### Database design
+  The database for event and job vacancy were built with Microsoft Dataverse for easy integration purpose
+* Event Table:
+* Job Vacancy
 
 3. #### Project Methodology (Agile or Waterfall).
 Project Decision Model
