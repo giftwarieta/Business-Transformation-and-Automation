@@ -3,7 +3,7 @@ This repository hold the entire project file for the Gifted Job Vacancy Bot, the
 
 ## Solution Overview
 This Solution is developed to enable staffs of an organization to check available job vacancies and events in the organization by simply chatting with a bot called Gifted.
-Click here to have a feel and interact with the bot using a web browser feel. You can trigger the conversation with a "hi" or greeting the bot.
+<a href="https://giftwarieta.com.ng/Giftedchatbot.html" target="_blanK">Click here</a> to have a feel and interact with the bot using a web browser feel. You can trigger the conversation with a "hi" or greeting the bot.
 
 ## Solution Justification
 The solution helps improve Staff vacancy notification experience at the comfort of the user with just a simple "hi" to trigger the communication.
