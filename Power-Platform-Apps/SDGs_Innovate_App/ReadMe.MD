@@ -17,16 +17,26 @@ Using the Agile methodology, I implemented the solution by leveraging on ##Power
 The app is built with simplicity and user's ease of interractivity in mind especially when accessing the app on their mobile phone.
 
 The choice of color is deliberate as it symbolizes gender equality. According to the International women's day website, the use of these three colors is very significant: purple, green and white.
-[put the image of color codes used]
+![App color code used](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/App_color_codes_used.png)
 
 While using the application, users have the options to toggle between the theme (default or modified theme) of their choice from the Setting section of the app as shown below.
-[put the two images of selected themes here]
+![Appp Setting on default theme](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/App_setting.PNG)
 
+![Appp Setting on modified theme](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/setting_modifiedTheme.PNG)
 
-* Created a sharepoint list that contains the following columns
-  * Your Full Name
-  * Your Email Address
-  * Answers' Column for each of the below questions:
+## Dataverse table creation
+Below are the tables created
+
+* AppUsers: this table holds the information of login users who have now been authorized to use the app. This table plays a key role in identifying the user's gender and admin role determining privileges to viewable screens.
+Below are the required columns
+  * AppUser - this holds the ID
+  * Email
+  * First Name
+  * Last Name
+  * Full Name
+  * Gender
+  * Role
+  
   1. How could the training/workshop be improved?
   2. How likely are you to recommend this training/workshop to a friend or colleague?
   * Completion Time
