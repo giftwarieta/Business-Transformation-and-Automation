@@ -11,7 +11,18 @@ Women especially in the developing countries of the world are not priviledged to
 My goal with the SDGs Innovate App, is to create a platform where the female users would be able to learn skills which will eventually empower them financially and for career growth.
 
 ## My Approach:
-Using the Agile methodology, I implemented the solution by leveraging on #Power Virtual Agent, Dataverse and Power Automate
+Using the Agile methodology, I implemented the solution by leveraging on ##Powerapp canvas app, Power Virtual Agent, Dataverse and Power Automate
+
+## UI/UX
+The app is built with simplicity and user's ease of interractivity in mind especially when accessing the app on their mobile phone.
+
+The choice of color is deliberate as it symbolizes gender equality. According to the International women's day website, the use of these three colors is very significant: purple, green and white.
+[put the image of color codes used]
+
+While using the application, users have the options to toggle between the theme (default or modified theme) of their choice from the Setting section of the app as shown below.
+[put the two images of selected themes here]
+
+
 * Created a sharepoint list that contains the following columns
   * Your Full Name
   * Your Email Address
