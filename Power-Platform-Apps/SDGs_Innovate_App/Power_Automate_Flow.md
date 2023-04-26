@@ -10,6 +10,5 @@ Below are the flows created
 ![Speak Up Flow](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Speak%20up%20flow.PNG "SpeakUp Power Auomate Flow Screenshot")
 
 2. Jobbot Automate flows: Click here to see more documentation on this.
-3. Birthday wish Flow:
 
 Thank you for viewing the documentations.  To watch a demo on this app, <a href="https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/AppOnStartup_code.md">Click here</a>
