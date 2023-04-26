@@ -21,9 +21,11 @@ The choice of color is deliberate as it symbolizes gender equality. According to
 
 While using the application, users have the options to toggle between the theme (default or modified theme) of their choice from the Setting section of the app as shown below.
 
-![Appp Setting on default theme](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/App_setting.PNG)
+Default Theme           |  Modified Theme
+:-------------------------:|:-------------------------:
+![App Setting on default theme](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/App_setting.PNG "Default Theme")|![Appp Setting on modified theme](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/setting_modifiedTheme.PNG "Modified Theme")
 
-![Appp Setting on modified theme](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/setting_modifiedTheme.PNG)
+
 
 ## Dataverse table creation
 Below are the tables created
@@ -112,13 +114,36 @@ Below are the required columns
 ![Job Application Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Job%20Application%20Table.PNG)
 
 ## App Screenshots
-By automating this process, I was able to streamline the administrative tasks associated with issuing training certificates and ensure that every participant receives their certificate promptly. This also helps to enhance the overall experience for participants and reinforce the value of your company's courses. Additionally, the automated system will free up your staff's time, enabling them to focus on developing and delivering high-quality courses to your growing base of participants.
+Below are screenshots of some of the screens in the application
+
+Get Started Screen           |  Update Profile Screen
+:-------------------------:|:-------------------------:
+![Get Started Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/GetStarted.PNG "Get Started Screen")|![Update Profile Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/UpdateProfile.PNG "Update Profile Screen")
+
+Login Screen without password input           |  Login Screen with password input
+:-------------------------:|:-------------------------:
+![Login Screen 1](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/RegisterdAppUser_loginScreen.PNG "Login Screen 1")|![Login Screen 2](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/RegisterdAppUser_loginScreen_onpasswordInput.PNG "Login Screen 1")
+
+Home Screen           |  SDGs Screen
+:-------------------------:|:-------------------------:
+![Home Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/Female_home.PNG "Home Screen")|![SDGs Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/SDGs.PNG "SDGs Screen")
+
+Skills Screen           |  Tech Screen        |  Tech Screen Preview
+:-------------------------:|:-------------------------:|:-------------------------:
+![Skill Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/SkillUp.PNG "Skill Screen")|![Tech Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/TechSkillPreview.PNG "Tech Screen")|![Tech Screen Details](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/TechSkill.PNG "Tech Screen Details")
+
+
+Health Tip Screen           |  SpeakUp Screen
+:-------------------------:|:-------------------------:
+![Health](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/HealthTips.PNG "Health Tip Screen")|![SpeakUp Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/Speakup%20section.PNG "SpeakUp Screen")
+
+<a href="https://github.com/giftwarieta/Business-Transformation-and-Automation/tree/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen">More Screen Preview</a>
 
 ## More details about app development
-1. <a href="">Access Logic on app</a>
-2. <a href="">On App Startup (Power Fx functionality)</a>
-3. <a href="">Code snippets</a>
-4. <a href="">Power Automate Flow</a>
+1. <a href="https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/AccessLogic_on_app.md">Access Logic on app</a>
+2. <a href="https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/AppOnStartup_code.md">App Onstart property code (Power Fx functionality)</a>
+3. <a href="https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Code_snippets.md">Code snippets</a>
+4. <a href="https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Power_Automate_Flow.md">Power Automate Flow</a>
 
 
 I hope you are learning more about how this app was built and some of its functionality 🌹👌👍👏
