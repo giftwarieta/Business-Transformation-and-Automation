@@ -136,7 +136,7 @@ Skills Screen           |  Tech Screen        |  Tech Screen Preview
 
 Tech Skill Screen Preview           |  Vocational Skill screen preview        |  Job Bot Screen preview
 :-------------------------:|:-------------------------:|:-------------------------:
-![TechSkill Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/TechSkill2.PNG "Tech Skill Screen")|![Vocational Skill Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/VocationalSkill.PNG "Vocational Screen")|![Jobbot]([https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/TechSkill.PNG](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/Jobbot.PNG) "Job Bot")
+![TechSkill Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/TechSkill2.PNG "Tech Skill Screen")|![Vocational Skill Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/VocationalSkill.PNG "Vocational Screen")|![Jobbot](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/Jobbot.PNG "Job Bot")
 
 Health Tip Screen           |  SpeakUp Screen
 :-------------------------:|:-------------------------:
