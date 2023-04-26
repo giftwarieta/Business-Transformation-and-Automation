@@ -176,4 +176,4 @@ Table(
 
 ```
 
-## <a href="https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/ReadMe.MD">Navigate to On App Startup (Power Fx functionality) Section</a>
+## <a href="https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Code_snippets.md">Navigate to Code Snippets Section</a>
