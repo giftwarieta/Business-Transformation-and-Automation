@@ -18,19 +18,52 @@ Below are the listed order through which this solution was developed, after whic
 * Design conceptualization.
 * FitGap Analysis.
 * Database Design
-* Workflow design.
+* Workflow design and Power automate flow creation
 * Chatbot Solution Design
 
 2. #### Database design
   The database for event and job vacancy were built with Microsoft Dataverse for easy integration purpose
-* Event Table:
-* Job Vacancy
 
-3. #### Project Methodology (Agile or Waterfall).
-Project Decision Model
+* Job Vacancy: this table holds the information about available job vacancies. This is a vital table used for the jobbot embeded in the app.
+Below are the created columns
+  1. JobID - autonumber column (Format is JV{DATETIMEUTC:yyyyddMM}-{SEQNUM:1})
+  2. Recruiting Department - text column
+  3. Vacancy Type - choice column (Internal and External options)
+  4. Job Vacancy Name - text column
+  5. Job Description - text column (textarea format)
+  6. Job Requirement - text column (textarea format)
+  7. Due Date - Date only column
+
+![Job Vacancy Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Gifted_chatbot/Images/Job%20Vacancies.PNG)
+
+* Job Application: this table holds the information of users who applied for a job role via the job bot in the application. This is a vital table used for the jobbot embeded in the app.
+Below are the required columns
+  1. ApplicationID - autonumber column
+  2. Email
+  3. Full Name
+  4. Job Role
+
+![Job Application Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Gifted_chatbot/Images/JobApplication_Table.PNG)
+
+* Events: this table holds about events
+Below are the required columns
+  1. Name - text column
+  2. Description - text column (text area format)
+  3. Start Date - Date only column
+  4. End Date - Date only column
+  5. Availability - text column
+
+![Event Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Gifted_chatbot/Images/Event_dataverse.PNG)
+
+3. #### Power Automate Flow
+  * Job Search Flow
+  * Event Search Flow
 
 ## Design Approach
 The design concept follows a nutural language process (NLP) approach with regards to inquiry about a job role availability.
+
+Below are screenshots from the Power virtual agent work flow
+![Flow](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Gifted_chatbot/Images/jobbotlogicPreview1.PNG)|![Flow](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Gifted_chatbot/Images/jobbotlogicPreview2.PNG)
 
 ## Chatbot Outlook
 ![Chat bot preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Gifted_chatbot/Images/GiftedChatbot.PNG)
