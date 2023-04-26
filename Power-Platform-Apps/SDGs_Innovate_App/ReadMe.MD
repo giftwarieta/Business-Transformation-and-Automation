@@ -106,13 +106,14 @@ Below are the created columns
 ![Job Vacancy Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Job%20Vacancies.PNG)
 
 * Job Application: this table holds the information of users who applied for a job role via the job bot in the application. This is a vital table used for the jobbot embeded in the app. (<a href="https://github.com/giftwarieta/Business-Transformation-and-Automation/tree/main/Power-Platform-Apps/Gifted_chatbot" target="_blank">read more here</a>)
-Below are the required columns
+Below are the created columns
   1. ApplicationID - autonumber column
   2. Email
   3. Full Name
   4. Job Role
 
 ![Job Application Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Job%20Application%20Table.PNG)
+
 
 ## App Screenshots
 Below are screenshots of some of the screens in the application
