@@ -64,6 +64,7 @@ If(Text(Today(),"dd/mm") in Text(LookUp(AppUsers, useremail in Email).DOB,"dd/mm
 ```
 
 ## Password Change
+Below is a pictorial representation of the password change process
 ![Password Change Process](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Password_change_process.png "Password Change Process Screenshot")
 
 On click the "Change Password Now" button, a confirmation popup message shows up
@@ -71,6 +72,7 @@ On click the "Change Password Now" button, a confirmation popup message shows up
 Set(varconfirm, true)
 ```
 Popup display code to effect or cancel password change request
+
 ```
 Set(varconfirm, false);
 Set(varload, true);
