@@ -72,4 +72,3 @@ Below are screenshots from the Power virtual agent work flow
 
 I hope this has been helpful in understanding how this solution was created.
 
-Now let's go check the Application Lifecycle Management (ALM) model, click here to explore
