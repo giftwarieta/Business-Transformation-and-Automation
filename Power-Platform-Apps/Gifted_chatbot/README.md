@@ -56,8 +56,14 @@ Below are the required columns
 ![Event Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Gifted_chatbot/Images/Event_dataverse.PNG)
 
 3. #### Power Automate Flow
-  * Job Search Flow
-  * Event Search Flow
+  * Job Search Flow (Gifty Job vacancy chatbot flow) - this flow is used by the power virtual agent to search for available job
+  ![Job Search Flow](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Gifted_chatbot/Images/Gifty_job_vacancy_chatbot_flow.PNG)
+  
+  * Event chatbot Flow - this flow is used by the power virtual agent to search for event
+![Event Search flow](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Gifted_chatbot/Images/event_chatbot_flow.PNG)
+
+  * Job role Expression of Interest flow - this flow to store details of the applied role on the Job application dataverse table
+ ![Job role expression flow](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Gifted_chatbot/Images/Jobrole_expression_flow.PNG)
 
 ## Design Approach
 The design concept follows a nutural language process (NLP) approach with regards to inquiry about a job role availability.
