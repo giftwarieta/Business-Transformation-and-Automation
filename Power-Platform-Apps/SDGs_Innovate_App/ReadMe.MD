@@ -28,47 +28,30 @@ While using the application, users have the options to toggle between the theme 
 ## Dataverse table creation
 Below are the tables created
 
-* AppUsers: this table holds the information of login users who have now been authorized to use the app. This table plays a key role in identifying the user's gender and admin role determining privileges to viewable screens.
-Below are the required columns
-  1. AppUser - this holds the ID
-  2. Email
-  3. First Name
-  4. Last Name
-  5. Full Name
-  6. Gender
-  7. Role
+* AppUser: this table holds the information of login users who have now been authorized to use the app. This table plays a key role in identifying the user's gender and admin role determining privileges to viewable screens.
+Below are the created columns
+  1. Email - email column
+  2. Given Name - text column
+  3. Full Name - text column
+  4. Gender - choice column (Female and Male options only)
+  5. DOB - Date Only column
+  6. User Role - Choice column (User and Admin)
+  7. Password - text
 
-* Job Vacancy: this table holds the information about availabe job vacancies.
-Below are the required columns
-  1. AppUser - this holds the ID
-  2. Email
-  3. First Name
-  4. Last Name
-  5. Full Name
-  6. Gender
-  7. Role
+![AdminUser Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/AppUser_table_preview.PNG)
 
-* Job Application: this table holds the information of users who applied for a job role via the job bot in the application.
-Below are the required columns
-  1. AppUser - this holds the ID
-  2. Email
-  3. First Name
-  4. Last Name
-  5. Full Name
-  6. Gender
-  7. Role
   
 * Daily Inspirational Quote: this table holds the quotations that are displayed randomly on the home screen of the application for users.
-Below are the required columns Gender Equality Complaint
+Below are the created columns
   1. QID - autonumber column
   2. Quote
   3. Author
   4. Category
 
-![Daily Inspirational Quote Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Daily_Inspirational_Quote_table_preview.PNG))
+![Daily Inspirational Quote Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Daily_Inspirational_Quote_table_preview.PNG)
 
 * Gender Equality Complaint: this table holds all logged in complaints from the Speak Up screen of the app. This screen is only accessible by female users.
-Below are the required columns
+Below are the created columns
   1. Email - email column
   2. First Name - text column
   3. Last Name - text column
@@ -78,10 +61,59 @@ Below are the required columns
 
 ![Gender Equality Complaint Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Gender_Equality_Complaints_table_preview.PNG)
 
+  
+* Health Tip: this table holds the quotations that are displayed randomly on the home screen of the application for users.
+Below are the created columns
+  1. Tip Name - Text column
+  2. Tip Description - text column
+  3. Health Tip Category - choice column
+
+![Health Tip Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Daily_Inspirational_Quote_table_preview.PNG)
+
+  
+* Skills: this table holds the details of the skills that would empower the female users to be better in their career or generate income easily.
+Below are the created columns
+  1. Name: text column
+  2. Overview - text column (textarea format)
+  3. VideoLink - URL column
+  4. Skill Type - choice column (Vocational and Tech options)
+
+![Daily Inspirational Quote Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Daily_Inspirational_Quote_table_preview.PNG)
+
+  
+* UN SDGs: this table holds details of the 17 Sustainable Development Goal.
+Below are the created columns
+  1. QID - autonumber column
+  2. Quote
+  3. Author
+  4. Category
+
+![Daily Inspirational Quote Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Daily_Inspirational_Quote_table_preview.PNG)
+
+* Job Vacancy: this table holds the information about available job vacancies. This is a vital table used for the jobbot embeded in the app. (<a href="https://github.com/giftwarieta/Business-Transformation-and-Automation/tree/main/Power-Platform-Apps/Gifted_chatbot" target="_blank">read more here</a>)
+Below are the created columns
+  1. JobID - autonumber column (Format is JV{DATETIMEUTC:yyyyddMM}-{SEQNUM:1})
+  2. Recruiting Department - text column
+  3. Vacancy Type - choice column (Internal and External options)
+  4. Job Vacancy Name - text column
+  5. Job Description - text column (textarea format)
+  6. Job Requirement - text column (textarea format)
+  7. Due Date - Date only column
+
+![Job Vacancy Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Job%20Vacancies.PNG)
+
+* Job Application: this table holds the information of users who applied for a job role via the job bot in the application. This is a vital table used for the jobbot embeded in the app. (<a href="https://github.com/giftwarieta/Business-Transformation-and-Automation/tree/main/Power-Platform-Apps/Gifted_chatbot" target="_blank">read more here</a>)
+Below are the required columns
+  1. ApplicationID - autonumber column
+  2. Email
+  3. Full Name
+  4. Job Role
+
+![Job Application Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Job%20Application%20Table.PNG)
 
 
-The image below, shows a sample certificate screenshot sent to a participant.
-![Sample Certificate screenshot](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Certification_Automation/Images/automated_certificate_screenshot.PNG)
+
+
 
 
 
