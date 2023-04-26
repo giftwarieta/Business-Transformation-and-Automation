@@ -2,7 +2,7 @@
 
 This is an application developed with the aim of promoting Gender Equality (the Sustainable Development Goal 5). The target of this goal is to achieve achieve gender equality and empower all women and girls.
 
-This application is an entry for the Global Power Platform Bootcamp 2023 Lagos #GPPB2023NIG <a href="https://youtu.be/PUjrWXKrO_4" target="_blank">Click here to watch the short video demo on the app</a>
+This application is an entry for the Global Power Platform Bootcamp 2023 Lagos #GPPB2023NIG <a href="https://youtu.be/PUjrWXKrO_4" target="_blank">Click here to watch the short video demo</a>
 
 ## Business Case
 SDG 5 aims to achieve gender equality by ending all forms of discrimination, violence and any harmful practices against women and girls in the public and private spheres. It also calls for the full participation of women and equal opportunities for leadership at all levels of political and economic decision-making.
