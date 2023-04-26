@@ -2,6 +2,7 @@
 
 This is an application developed with the aim of promoting Gender Equality (the Sustainable Development Goal 5). The target of this goal is to achieve achieve gender equality and empower all women and girls.
 
+This application is an entry for the Global Power Platform Bootcamp 2023 Lagos #GPPB2023NIG <a href="https://youtu.be/PUjrWXKrO_4" target="_blank">Click here to watch the short video demo on the app</a>
 
 ## Business Case
 SDG 5 aims to achieve gender equality by ending all forms of discrimination, violence and any harmful practices against women and girls in the public and private spheres. It also calls for the full participation of women and equal opportunities for leadership at all levels of political and economic decision-making.
@@ -132,6 +133,10 @@ Skills Screen           |  Tech Screen        |  Tech Screen Preview
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Skill Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/SkillUp.PNG "Skill Screen")|![Tech Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/TechSkillPreview.PNG "Tech Screen")|![Tech Screen Details](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/TechSkill.PNG "Tech Screen Details")
 
+
+Tech Skill Screen Preview           |  Vocational Skill screen preview        |  Job Bot Screen preview
+:-------------------------:|:-------------------------:|:-------------------------:
+![TechSkill Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/TechSkill2.PNG "Tech Skill Screen")|![Vocational Skill Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/VocationalSkill.PNG "Vocational Screen")|![Jobbot]([https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/TechSkill.PNG](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/Jobbot.PNG) "Job Bot")
 
 Health Tip Screen           |  SpeakUp Screen
 :-------------------------:|:-------------------------:
