@@ -58,20 +58,32 @@ Below are the required columns
   6. Gender
   7. Role
   
+* Daily Inspirational Quote: this table holds the quotations that are displayed randomly on the home screen of the application for users.
+Below are the required columns Gender Equality Complaint
+  1. QID - autonumber column
+  2. Quote
+  3. Author
+  4. Category
+
+![Daily Inspirational Quote Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Daily_Inspirational_Quote_table_preview.PNG))
+
+* Gender Equality Complaint: this table holds all logged in complaints from the Speak Up screen of the app. This screen is only accessible by female users.
+Below are the required columns
+  1. Email - email column
+  2. First Name - text column
+  3. Last Name - text column
+  4. Full Name - text column
+  5. Complain - Choice column which enables multiple selection
+  6. Additional Comment - text column in text area format
+
+![Gender Equality Complaint Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Gender_Equality_Complaints_table_preview.PNG)
 
 
-
-The image below, shows the process flowchart of the solutionscreenshot of a sample certificate sent to a participant.
-![Automation Flowchart](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Certification_Automation/Images/Certificate_generation_automation_flowchart.jpg)
 
 The image below, shows a sample certificate screenshot sent to a participant.
 ![Sample Certificate screenshot](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Certification_Automation/Images/automated_certificate_screenshot.PNG)
 
 
-The image below, shows screenshots of the participant attendance form designed with Microsoft Form. Kindly note that the layout can be changed to different layout
-![Attendance Form Home Page](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Certification_Automation/Images/Attendance_form_homepage.PNG)
-
-![Attendance Main Form](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Certification_Automation/Images/Attendance_MainForm.PNG)
 
 ## Benefits of this automation
 By automating this process, I was able to streamline the administrative tasks associated with issuing training certificates and ensure that every participant receives their certificate promptly. This also helps to enhance the overall experience for participants and reinforce the value of your company's courses. Additionally, the automated system will free up your staff's time, enabling them to focus on developing and delivering high-quality courses to your growing base of participants.
