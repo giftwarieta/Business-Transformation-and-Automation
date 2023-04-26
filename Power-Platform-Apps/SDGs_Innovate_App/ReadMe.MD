@@ -20,6 +20,7 @@ The choice of color is deliberate as it symbolizes gender equality. According to
 ![App color code used](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/App_color_codes_used.png)
 
 While using the application, users have the options to toggle between the theme (default or modified theme) of their choice from the Setting section of the app as shown below.
+
 ![Appp Setting on default theme](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/App_setting.PNG)
 
 ![Appp Setting on modified theme](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/setting_modifiedTheme.PNG)
@@ -29,26 +30,35 @@ Below are the tables created
 
 * AppUsers: this table holds the information of login users who have now been authorized to use the app. This table plays a key role in identifying the user's gender and admin role determining privileges to viewable screens.
 Below are the required columns
-  * AppUser - this holds the ID
-  * Email
-  * First Name
-  * Last Name
-  * Full Name
-  * Gender
-  * Role
+  1. AppUser - this holds the ID
+  2. Email
+  3. First Name
+  4. Last Name
+  5. Full Name
+  6. Gender
+  7. Role
+
+* Job Vacancy: this table holds the information about availabe job vacancies.
+Below are the required columns
+  1. AppUser - this holds the ID
+  2. Email
+  3. First Name
+  4. Last Name
+  5. Full Name
+  6. Gender
+  7. Role
+
+* Job Application: this table holds the information of users who applied for a job role via the job bot in the application.
+Below are the required columns
+  1. AppUser - this holds the ID
+  2. Email
+  3. First Name
+  4. Last Name
+  5. Full Name
+  6. Gender
+  7. Role
   
-  1. How could the training/workshop be improved?
-  2. How likely are you to recommend this training/workshop to a friend or colleague?
-  * Completion Time
 
-* Create a Microsoft Form that contains the below fields
-  * Your Full Name
-  * Your Email Address
-  * How could the training/workshop be improved?
-  * How likely are you to recommend this training/workshop to a friend or colleague?
-  * Completion Time
-
-* Created a backend flow using Power automate to implement the process flowchart whose image is seen below
 
 
 The image below, shows the process flowchart of the solutionscreenshot of a sample certificate sent to a participant.
