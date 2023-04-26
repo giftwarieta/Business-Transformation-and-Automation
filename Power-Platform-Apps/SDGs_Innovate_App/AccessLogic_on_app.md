@@ -20,7 +20,7 @@ If("Male" = Text(LookUp(AppUsers, useremail in Email).Gender),Navigate(Male_Home
 Below is a code snippet of navigating between footer menus based on gender
 ![App Footer](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Footer_menu.PNG)
 
-![Female User Home Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/Female_home.PNG) "Female User Home Screen" =50%x) ![Male User Home Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/male.PNG "Male User Home Screen" =50%x)
+![Female User Home Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/Female_home.PNG "Female User Home Screen" =40%x) ![Male User Home Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/male.PNG "Male User Home Screen" =40%x)
 
 ```
 If("Male" = Text(LookUp(AppUsers, useremail in Email).Gender), maleglobalnavitem, globalnavitem);
