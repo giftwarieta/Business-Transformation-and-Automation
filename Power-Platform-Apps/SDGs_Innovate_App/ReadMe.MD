@@ -59,7 +59,7 @@ Below are the created columns
   5. Complain - Choice column which enables multiple selection
   6. Additional Comment - text column in text area format
 
-![Gender Equality Complaint Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Gender_Equality_Complaints_table_preview.PNG)
+![Gender Equality Complaint Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/1bbd5f40277ffeb3874a2eeaad7c8aa190252f63/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Gender_Equality_Complaints_table_preview.PNG)
 
   
 * Health Tip: this table holds the quotations that are displayed randomly on the home screen of the application for users.
