@@ -9,5 +9,22 @@
 
 ![Login Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/RegisterdAppUser_loginScreen.PNG)
 
+3. If a female is logged in, the home menu and screens available for views are different from that which is accessible by the male user as the app is mainly built to promote Gender Equality - empower women and female children who uses the app - skillUp opportunities and SpeakUp functionality.
+
+Below is a code snippet of navigating between home screen based on gender
+
+```
+If("Male" = Text(LookUp(AppUsers, useremail in Email).Gender),Navigate(Male_Home),Navigate(Home));
+```
+
+Below is a code snippet of navigating between footer menus based on gender
+![App Footer](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Footer_menu.PNG)
+
+![Female User Home Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/Female_home.PNG) "Female User Home Screen" =50%x) ![Male User Home Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/male.PNG "Male User Home Screen" =50%x)
+
+```
+If("Male" = Text(LookUp(AppUsers, useremail in Email).Gender), maleglobalnavitem, globalnavitem);
+```
+
 
 ## <a href="https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/ReadMe.MD">Navigate to On App Startup (Power Fx functionality) Section</a>
