@@ -63,10 +63,11 @@ Below are the required columns
 The design concept follows a nutural language process (NLP) approach with regards to inquiry about a job role availability.
 
 Below are screenshots from the Power virtual agent work flow
-![Flow](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Gifted_chatbot/Images/jobbotlogicPreview1.PNG)|![Flow](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Gifted_chatbot/Images/jobbotlogicPreview2.PNG)
+![Flow](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Gifted_chatbot/Images/jobbotlogicPreview1.PNG)
+![Flow](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Gifted_chatbot/Images/jobbotlogicPreview2.PNG)
 
 ## Chatbot Outlook
-![Chat bot preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Gifted_chatbot/Images/GiftedChatbot.PNG)
+![Chat bot preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Gifted_chatbot/Images/JobbotApp.PNG)
 
 
 I hope this has been helpful in understanding how this solution was created.
