@@ -18,13 +18,17 @@ If("Male" = Text(LookUp(AppUsers, useremail in Email).Gender),Navigate(Male_Home
 ```
 
 Below is a code snippet of navigating between footer menus based on gender
+
 ![App Footer](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Footer_menu.PNG)
 
-![Female User Home Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/Female_home.PNG "Female User Home Screen" =40%x) ![Male User Home Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/male.PNG "Male User Home Screen" =40%x)
+Female User Home Screen           |  Male User Home Screen
+:-------------------------:|:-------------------------:
+![Female User Home Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/Female_home.PNG "Female User Home Screen")|![Male User Home Screen](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/AppScreen/male.PNG "Male User Home Screen")
+
 
 ```
 If("Male" = Text(LookUp(AppUsers, useremail in Email).Gender), maleglobalnavitem, globalnavitem);
 ```
 
 
-## <a href="https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/ReadMe.MD">Navigate to On App Startup (Power Fx functionality) Section</a>
+## <a href="https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/AppOnStartup_code.md">Navigate to On App Startup (Power Fx functionality) Section</a>
