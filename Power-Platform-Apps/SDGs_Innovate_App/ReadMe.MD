@@ -122,4 +122,4 @@ By automating this process, I was able to streamline the administrative tasks as
 
 
 I hope you are learning more about how this app was built and some of its functionality 🌹👌👍👏
-[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
+
