@@ -68,7 +68,7 @@ Below are the created columns
   2. Tip Description - text column
   3. Health Tip Category - choice column
 
-![Health Tip Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Daily_Inspirational_Quote_table_preview.PNG)
+![Health Tip Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/HealthTip_dataverse_table_preview.PNG)
 
   
 * Skills: this table holds the details of the skills that would empower the female users to be better in their career or generate income easily.
@@ -78,7 +78,7 @@ Below are the created columns
   3. VideoLink - URL column
   4. Skill Type - choice column (Vocational and Tech options)
 
-![Daily Inspirational Quote Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Daily_Inspirational_Quote_table_preview.PNG)
+![Skills Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Skills_dataverse_table_preview.PNG)
 
   
 * UN SDGs: this table holds details of the 17 Sustainable Development Goal.
@@ -88,7 +88,7 @@ Below are the created columns
   3. Author
   4. Category
 
-![Daily Inspirational Quote Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Daily_Inspirational_Quote_table_preview.PNG)
+![UN SDGs Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/UNSDGs_table_preview.PNG)
 
 * Job Vacancy: this table holds the information about available job vacancies. This is a vital table used for the jobbot embeded in the app. (<a href="https://github.com/giftwarieta/Business-Transformation-and-Automation/tree/main/Power-Platform-Apps/Gifted_chatbot" target="_blank">read more here</a>)
 Below are the created columns
@@ -111,14 +111,15 @@ Below are the required columns
 
 ![Job Application Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Job%20Application%20Table.PNG)
 
-
-
-
-
-
-
-## Benefits of this automation
+## App Screenshots
 By automating this process, I was able to streamline the administrative tasks associated with issuing training certificates and ensure that every participant receives their certificate promptly. This also helps to enhance the overall experience for participants and reinforce the value of your company's courses. Additionally, the automated system will free up your staff's time, enabling them to focus on developing and delivering high-quality courses to your growing base of participants.
 
+## More details about app development
+1. <a href="">Access Logic on app</a>
+2. <a href="">On App Startup (Power Fx functionality)</a>
+3. <a href="">Code snippets</a>
+4. <a href="">Power Automate Flow</a>
 
-Test the solution by <a href="https://forms.office.com/r/FxKqgd1U48" target="_blank">clicking here</a>.
+
+I hope you are learning more about how this app was built and some of its functionality 🌹👌👍👏
+[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
