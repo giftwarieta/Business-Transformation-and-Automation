@@ -13,13 +13,13 @@
 
 Below is a code snippet of navigating between home screen based on gender
 
+![App Footer](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Footer_menu.PNG)
+
 ```
 If("Male" = Text(LookUp(AppUsers, useremail in Email).Gender),Navigate(Male_Home),Navigate(Home));
 ```
 
 Below is a code snippet of navigating between footer menus based on gender
-
-![App Footer](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/Footer_menu.PNG)
 
 Female User Home Screen           |  Male User Home Screen
 :-------------------------:|:-------------------------:
