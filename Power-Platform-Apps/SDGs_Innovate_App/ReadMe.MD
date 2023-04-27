@@ -86,10 +86,10 @@ Below are the created columns
   
 * UN SDGs: this table holds details of the 17 Sustainable Development Goal.
 Below are the created columns
-  1. QID - autonumber column
-  2. Quote
-  3. Author
-  4. Category
+  1. Goal Id - autonumber column
+  2. Goal Name
+  3. Target
+  4. Image
 
 ![UN SDGs Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/SDGs_Innovate_App/Images/screenshots/UNSDGs_table_preview.PNG)
 
