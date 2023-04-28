@@ -39,9 +39,9 @@ Below are the created columns
 * Job Application: this table holds the information of users who applied for a job role via the job bot in the application. This is a vital table used for the jobbot embeded in the app.
 Below are the required columns
   1. ApplicationID - autonumber column
-  2. Email
-  3. Full Name
-  4. Job Role
+  2. Email - email column
+  3. Full Name - text column
+  4. Job Role - text column
 
 ![Job Application Dataverse Table Preview](https://github.com/giftwarieta/Business-Transformation-and-Automation/blob/main/Power-Platform-Apps/Gifted_chatbot/Images/JobApplication_Table.PNG)
 
