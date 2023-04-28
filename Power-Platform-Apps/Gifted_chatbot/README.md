@@ -1,8 +1,12 @@
 # Gifted Job Vacancy Bot
 This repository hold the entire project file for the Gifted Job Vacancy Bot, the documentations and the GitHub actions for committing changes and deployment.
 
+## Business Case
+A small scale company wants to keep track of all vacancies released on a database and provide a means for employees or potential employees to be able to seamlessly check available vacant role and apply for roles they are interested in by chatting with a HR Bot which would be deployed in some of their touch points such as website, mobile app, Microsoft Team etc.
+
+
 ## Solution Overview
-This Solution is developed to enable staffs of an organization to check available job vacancies (and apply for vacant roles of their interest) and events in the organization by simply chatting with a bot called Gifted.
+This Solution is developed to enable staffs of an organization and potential employees to check available job vacancies (and apply for vacant roles of their interest) and events in the organization by simply chatting with a bot called Gifted.
 <a href="https://giftwarieta.com.ng/Giftedchatbot.html" target="_blanK">Click here</a> to have a feel and interact with the bot using a web browser feel. You can trigger the conversation with a "hi" or greeting the bot.
 
 ## Solution Justification
