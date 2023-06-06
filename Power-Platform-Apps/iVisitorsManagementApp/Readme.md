@@ -1,3 +1,6 @@
+# iVisitors' Management App
+
+## Business Case
 Have you visited any organization and you are required to fill a hard copy Logbook? This practice is common in most organizations today.
 
 Do you also know that you can automate this process by leveraging your existing Microsoft 365 Licenses? That's exactly what I did by building a Power App to automate this process. below is the feature of the Solution:
